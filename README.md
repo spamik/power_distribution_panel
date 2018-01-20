@@ -2,6 +2,8 @@
 
 Distribution panel for low voltage DC.
 
+![Panel photo](https://raw.githubusercontent.com/spamik/power_distribution_panel/master/pdp_photo.jpg)
+
 ## Description
 Panel has 5 "sockets" (banana plug pair). Each socket has own switch, LED indicator and fuse. Panel has also one central fuse. Ratings: PCB should be working fine up to 60V and 10A. It also depends on plugs, switches and components on PCB.
 
